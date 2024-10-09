@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   selector: 'app-buscador',
   standalone: true,
   imports: [],
-  templateUrl: './buscador.component.html',
-  styleUrl: './buscador.component.css'
+  templateUrl: './buscador.component.css',
+  styleUrls: ['./buscador.component.css']
 })
 export class BuscadorComponent {
 
